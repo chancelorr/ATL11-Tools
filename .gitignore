@@ -3,6 +3,9 @@ build/
 dist/
 *.egg-info/
 
+# Mac OS files
+*.DS_Store
+
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 

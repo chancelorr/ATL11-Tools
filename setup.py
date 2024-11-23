@@ -22,6 +22,6 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    scripts=['scripts/get_tides.sh'],
+    scripts=['scripts/get_tides_v1.sh'],
     python_requires=">=3.7",                  # Minimum Python version
 )

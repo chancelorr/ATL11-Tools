@@ -15,6 +15,10 @@ figs/
 config/*
 !config/config_template.ini
 
+# build
+ATL11_tools.egg-info/
+dist/
+
 # ignore misc
 misc/
 

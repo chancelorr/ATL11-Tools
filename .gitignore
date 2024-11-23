@@ -1,3 +1,22 @@
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.swp
+*.bak
+*.log
+*.tmp
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
 # ignore data
 data/
 processed_data/
